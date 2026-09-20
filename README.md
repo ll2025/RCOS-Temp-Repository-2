@@ -1,4 +1,4 @@
-# RCOS-Temp-Repository-2
+# RCOS Temp Repository F26
 
 From 9/18/2026 Lecture on Git and for Assignment 1.
 
